@@ -1,0 +1,13 @@
+*.pkg
+*.zip
+.DS_Store
+.idea/
+.vscode/
+*.pkg
+*.zip
+.DS_Store
+.idea/
+.vscode/
+*.mp4
+*.m3u8
+*.ts

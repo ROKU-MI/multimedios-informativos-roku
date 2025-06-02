@@ -1,0 +1,7 @@
+title=MI 2.0
+major_version=2
+minor_version=0
+build_version=0002
+mm_icon_focus_hd=pkg:/images/MILogo.png
+splash_screen_fhd=pkg:/images/MILogo.png
+ui_resolutions=hd,fhd
